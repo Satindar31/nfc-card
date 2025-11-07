@@ -6,9 +6,16 @@
   ==================================================================
 -->
 
-## 11/8/2025 - Wire schematic  
+## 11/8/2025 2 AM - Wire schematic  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTIyNSwicHVyIjoiYmxvYl9pZCJ9fQ==--471f03e621dc5332793e4fbce66aa7629e5f840e/image.png)
 
 Add all the used components into a schematic in easyeda and then connect them together to form a circuit as shown in the guide and try to understand what each one does  
+
+## 11/8/2025 3 AM - Board design  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI0MiwicHVyIjoiYmxvYl9pZCJ9fQ==--33cbeeb1e04e93c70f5f9b4b12fbbe61f8dc42e8/image.png)
+
+Connected all the components used in the card in the PCB editor mode and then designed the card a little bit.
+Added my name, email, website url and also instagram handle.  
 
